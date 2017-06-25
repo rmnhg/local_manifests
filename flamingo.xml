@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remove-project name="vendor/pure"/>
+<remove-project name="PureNexusProject/android_vendor_pure" />
 <project name="rmnhg/android_vendor_pure" path="vendor/pure" remote="github" revision="n-mr2" />
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="pNp_n-mr2" />
 <project name="kj77/device-sony-yukon" path="device/sony/yukon" remote="github" revision="cm-14.1" />
