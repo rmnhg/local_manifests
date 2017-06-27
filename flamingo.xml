@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remove-project name="PureNexusProject/android_vendor_pure" />
+<remove-project name="vendor/pure" />
 <project name="rmnhg/android_vendor_pure" path="vendor/pure" remote="github" revision="n-mr2" />
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="pNp_n-mr2" />
 <project name="kj77/device-sony-yukon" path="device/sony/yukon" remote="github" revision="cm-14.1" />
 <project name="kj77/vendor-yukon" path="vendor/sony" remote="github" revision="cm-14.1" />
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
 <project name="AdFad666/renaissance" path="kernel/sony/msm8226" remote="github" revision="cm-14.1" />
-<project path="vendor/broadcom/bt-fm" name="vendor-broadcom-bt-fm" groups="device" remote="sony" revision="master" />
 </manifest>
