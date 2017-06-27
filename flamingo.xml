@@ -8,5 +8,4 @@
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
 <project name="AdFad666/renaissance" path="kernel/sony/msm8226" remote="github" revision="cm-14.1" />
 <project path="vendor/broadcom/bt-fm" name="vendor-broadcom-bt-fm" groups="device" remote="sony" revision="master" />
-<project path="vendor/qcom/opensource/fm" name="vendor-qcom-opensource-fm" groups="device" remote="sony" revision="master" />
 </manifest>
