@@ -7,5 +7,5 @@
 <project name="kj77/vendor-yukon" path="vendor/sony" remote="github" revision="cm-14.1" />
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
 <project name="AdFad666/renaissance" path="kernel/sony/msm8226" remote="github" revision="cm-14.1" />
-<project name="NamanArora/android_vendor_sony" path="vendor/sony/flamingo" revision="master" remote="github" />
+<project name="NamanArora/android_vendor_sony" path="vendor/flamingo" revision="master" remote="github" />
 </manifest>
