@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="android_packages_apps_FMRadio" />
   <project name="SonyLOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
