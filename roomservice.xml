@@ -7,5 +7,4 @@
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
   <project name="SonyAosp/vendor_qcom" path="vendor/qcom" remote="github" revision="aosp/LA.BR.1.3.3_rb2.14" />
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
 </manifest>
