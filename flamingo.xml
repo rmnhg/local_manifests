@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<remove-project name="android_vendor_pure" />
+<manifest><remove-project name="android_vendor_pure" />
 <remove-project name="LineageOS/android_hardware_qcom_camera" />
-<remove-project name="android_device_qcom_sepolicy" />
 <project name="rmnhg/android_vendor_pure" path="vendor/pure" remote="github" revision="n-mr2" />
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="pNp_n-mr2" />
 <project name="kj77/device-sony-yukon" path="device/sony/yukon" remote="github" revision="cm-14.1" />
@@ -10,6 +8,5 @@
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
 <project name="rmnhg/renaissance" path="kernel/sony/msm8226" remote="github" revision="cm-14.1" />
 <project name="NamanArora/android_vendor_sony" path="vendor/flamingo" revision="master" remote="github" />
-<project name="sonyxperiadev/device-qcom-sepolicy" path="device/qcom/sepolicy" revision="master" remote="github" />
 <project name="kj77/platform_hardware_qcom_camera" remote="github" path="hardware/qcom/camera" revision="cm-14.1-OSSCamera" />
 </manifest>
