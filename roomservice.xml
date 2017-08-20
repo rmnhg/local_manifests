@@ -9,9 +9,4 @@
   <project name="SonyAosp/vendor_qcom" path="vendor/qcom" remote="github" revision="aosp/LA.BR.1.3.3_rb2.14" />
   <project name="PureNexusProject-Mod/android_device_qcom_sepolicy" remote="github" revision="n-mr2" />
   <project name="kj77/device-sony-sepolicy" remote="github" revision="7.0-3.4" />
-  <!-- Autobuild GApps for Pure Nexus -->
-  <remote name="opengapps" fetch="https://github.com/opengapps/"  />
-  <project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
-  <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="master" remote="opengapps" />
-  <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="master" remote="opengapps" />
 </manifest>
