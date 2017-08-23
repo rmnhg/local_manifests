@@ -5,7 +5,7 @@
            review="https://review.lineageos.org" />
 
   <remote  name="private"
-fetch="ssh://git@github.com" />
+           fetch="ssh://git@github.com" />
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="oreo" />
 <project name="rmnhg/device-sony-yukon" path="device/sony/yukon" remote="github" revision="cm-14.1-OSSCamera" />
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
