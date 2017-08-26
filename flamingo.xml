@@ -1,6 +1,6 @@
 <manifest>
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" revision="cm-14.1" remote="github" />
-<project name="kj77/device-sony-yukon" path="device/sony/yukon" revision="cm-14.1" remote="github" />
+<project name="rmnhg/device-sony-yukon" path="device/sony/yukon" revision="cm-14.1" remote="github" />
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" revision="7.0-3.4" remote="github" />
 <project name="rmnhg/renaissance" path="kernel/sony/msm8226" revision="cm-14.1" remote="github" />
 <project name="rmnhg/vendor-sony" path="vendor/sony" revision="nougat" remote="github" />
