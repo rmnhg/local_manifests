@@ -3,10 +3,9 @@
   <remote name="github"
            fetch="https://github.com"
            review="review.lineageos.org" />
-<project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="oreo" />
-<project name="rmnhg/device-sony-yukon" path="device/sony/yukon" remote="github" revision="android-7.1" />
+<project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="lineage-15.0" />
+<project name="rmnhg/device-sony-yukon" path="device/sony/yukon" remote="github" revision="lineage-15.0" />
 <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="7.0-3.4" />
 <project name="rmnhg/renaissance" path="kernel/sony/msm8226" remote="github" revision="cm-14.1" />
 <project name="kj77/vendor-yukon" path="vendor/sony" revision="cm-14.1" remote="github" />
-<project name="kj77/platform_hardware_qcom_camera" remote="github" path="hardware/qcom/camera" revision="cm-14.1-OSSCamera" />
 </manifest>
