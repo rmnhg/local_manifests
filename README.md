@@ -1,2 +1,2 @@
 # Xperia E3 manifests
-Initial support for building Pure Nexus for Sony Xperia E3
+Initial support for building Android Oreo for Sony Xperia E3
