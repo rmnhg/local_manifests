@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github"
-           fetch="https://github.com"
-           review="review.lineageos.org" />
 <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" remote="github" revision="lineage-15.0" />
 <project name="rmnhg/device-sony-yukon" path="device/sony/yukon" remote="github" revision="lineage-15.0" />
 <project name="SonyAosp/device_sony_sepolicy" path="device/sony/sepolicy" revision="o-updates" remote="github" />
