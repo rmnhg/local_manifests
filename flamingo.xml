@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Xperia E3 device-->
-  <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" revision="cm-14.1" remote="github" />
+  <project name="rmnhg/device-sony-flamingo" path="device/sony/flamingo" revision="cm-14.1-cameratesting" remote="github" />
   <project name="rmnhg/device-sony-yukon" path="device/sony/yukon" revision="cm-14.1" remote="github" />
   <project name="kj77/device-sony-sepolicy" path="device/sony/sepolicy" revision="7.0-3.4" remote="github" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
