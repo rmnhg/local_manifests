@@ -1,2 +1,2 @@
 # Xperia E3 local manifests
-Local manifests for building LineageOS 15.0/AOSP 8.0  for Sony Xperia E3.
+Local manifests for building LineageOS 15.1/AOSP 8.1  for Sony Xperia E3.
