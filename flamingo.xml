@@ -24,7 +24,8 @@
   <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="master" />
 
   <!--Team Win Recovery Project-->
-  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-8.1" />
+  <remove-project name="LineageOS/android_bootable_recovery" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-8.1" />
   <project name="omnirom/android_external_busybox" path="external/busybox" remote="github" revision="android-8.1" />
 
   <!--Sony Hardware-->
