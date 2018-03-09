@@ -30,5 +30,5 @@
   <!--Sony Hardware-->
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
-  <project name="SonyAosp/platform_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="github" revision="master" />
+  <project name="SonyAosp/platform_hardware_qcom_wlan" path="hardware/sony/wlan" remote="github" revision="master" />
 </manifest>
