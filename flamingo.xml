@@ -32,7 +32,9 @@
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <project name="SonyAosp/platform_hardware_qcom_wlan" path="hardware/sony/wlan" remote="github" revision="master" />
   
-  <!--hardware/qcom/audio/default dirty fix as it id not syncing well-->
+  <!--hardware/qcom/audio/default and hardware/qcom/media dirty fix as it id not syncing well-->
   <remove-project name="LineageOS/android_hardware_qcom_audio" />
+  <remove-project name="LineageOS/android_hardware_qcom_media" />
   <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="github" revision="cm-14.1" />
+  <project path="hardware/qcom/media" name="LineageOS/android_hardware_qcom_media" remote="github" revision="cm-14.1"/>
 </manifest>
