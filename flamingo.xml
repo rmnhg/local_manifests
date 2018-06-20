@@ -30,4 +30,8 @@
   <!--Sony Hardware-->
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
+
+  <!--Unofficial OTA updates-->
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
+  <project name="rmnhg/android_packages_apps_Updater" path="packages/apps/Updater" remote="github" revision="cm-14.1" />
 </manifest>
