@@ -30,6 +30,7 @@
   <!--Sony Hardware-->
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
 
   <!--Unofficial OTA updates-->
   <remove-project name="LineageOS/android_packages_apps_Updater" />
