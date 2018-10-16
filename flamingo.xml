@@ -18,10 +18,6 @@
   <!--Firmware-->
   <remote name="NXP" fetch="https://github.com/NXPNFCProject/" />
   <project path="vendor/nxp/NXPNFCC_FW" name="NXPNFCC_FW" groups="device" remote="NXP" revision="master" />
-  
-  <!--Custom APPs-->
-  <remove-project name="LineageOS/android_packages_apps_FMRadio" />
-  <project name="SonyLOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-14.1" />
 
   <!--Team Win Recovery Project-->
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
